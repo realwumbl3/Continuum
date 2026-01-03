@@ -1,0 +1,11 @@
+{
+  "name": "continuum",
+  "version": "1.0.0",
+  "description": "Continuum - Your timeline never breaks",
+  "scripts": {
+    "build-icons": "node build-icons.js"
+  },
+  "devDependencies": {
+    "sharp": "^0.32.6"
+  }
+}
