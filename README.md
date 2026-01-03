@@ -1,7 +1,7 @@
 <div align="center">
   <img src="icon.svg" alt="Continuum Logo" width="128" height="128" />
   <h1>Continuum</h1>
-  <p><em>Your timeline never breaks</em></p>
+  <p><em>Seamless YouTube continuity</em></p>
 </div>
 
 ## What is Continuum?
